@@ -6,8 +6,40 @@ The course covers basic algorithmic techniques and ideas for computational probl
 ## Courses
 
 * Programming Challenges
+    * Sum of Two Digits
+    * Maximum Pairwise Product
 * Algorithmic Warm-up
+    * Fibonacci Number
+    * Last Digit of Fibonacci Number
+    * Greatest Common Divisor
+    * Least Common Multiple
+    * Fibonacci Number Again
+    * Last Digit of the Sum of Fibonacci Numbers
+    * Last Digit of the Sum of Fibonacci Numbers
+      Again
 * Greedy Algorithms
+    * Money Change
+    * Maximum Value of the Loot
+    * Maximum Advertisement Revenue
+    * Collecting Signatures
+    * Maximum Number of Prizes
+    * Maximum Salary
 * Divide-and-Conquer
+    * Binary Search
+    * Majority Element
+    * Improving QuickSort
+    * Number of Inversions
+    * Organizing a Lottery
+    * Closest Points
 * Dynamic Programming 1
+    * Money Change Again
+    * Primitive Calculator
+    * Edit Distance
+    * Longest Common Subsequence of Two Sequences
+    * Longest Common Subsequence of Three Sequences
+    * Maximum Amount of Gold
+    * Partitioning Souvenirs
+    * Maximum Value of an Arithmetic Expression
 * Dynamic Programming 2
+    * Knapsack with Repetitions
+    * Knapsack without Repetitions
